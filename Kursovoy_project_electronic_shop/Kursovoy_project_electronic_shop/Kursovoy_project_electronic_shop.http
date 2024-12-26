@@ -1,0 +1,6 @@
+@Kursovoy_project_electronic_shop_HostAddress = http://localhost:5246
+
+GET {{Kursovoy_project_electronic_shop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
